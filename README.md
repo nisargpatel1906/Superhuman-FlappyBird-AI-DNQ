@@ -1,8 +1,8 @@
 # Superhuman FlappyBird AI (DQN) 🐦
 
-[![Stars](https://img.shields.io/github/stars/nisargpatel1906/Superhuman-FlappyBird-AI-DNQ?style=flat-square&color=blue)](https://github.com/nisargpatel1906/Superhuman-FlappyBird-AI-DNQ/stargazers)
-[![Forks](https://img.shields.io/github/forks/nisargpatel1906/Superhuman-FlappyBird-AI-DNQ?style=flat-square&color=blue)](https://github.com/nisargpatel1906/Superhuman-FlappyBird-AI-DNQ/network/members)
-[![Issues](https://img.shields.io/github/issues/nisargpatel1906/Superhuman-FlappyBird-AI-DNQ?style=flat-square&color=blue)](https://github.com/nisargpatel1906/Superhuman-FlappyBird-AI-DNQ/issues)
+[![Stars](https://img.shields.io/github/stars/nisargpatel1906/Superhuman-FlappyBird-AI-DQN?style=flat-square&color=blue)](https://github.com/nisargpatel1906/Superhuman-FlappyBird-AI-DQN/stargazers)
+[![Forks](https://img.shields.io/github/forks/nisargpatel1906/Superhuman-FlappyBird-AI-DQN?style=flat-square&color=blue)](https://github.com/nisargpatel1906/Superhuman-FlappyBird-AI-DQN/network/members)
+[![Issues](https://img.shields.io/github/issues/nisargpatel1906/Superhuman-FlappyBird-AI-DQN?style=flat-square&color=blue)](https://github.com/nisargpatel1906/Superhuman-FlappyBird-AI-DQN/issues)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3.10_|_3.12-blue.svg?style=flat-square&logo=python&logoColor=white)
 
@@ -43,8 +43,8 @@ To break past standard Python CPU/GPU execution bottlenecks, this codebase was h
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/nisargpatel1906/Superhuman-FlappyBird-AI-DNQ.git
-   cd Superhuman-FlappyBird-AI-DNQ
+   git clone https://github.com/nisargpatel1906/Superhuman-FlappyBird-AI-DQN.git
+   cd Superhuman-FlappyBird-AI-DQN
    ```
 
 2. **Create a virtual environment (Recommended):**
